@@ -1,0 +1,26 @@
+.images2 {
+   box-sizing: border-box;
+   display:block;
+   width: 1200px;
+   height: 275px;
+   margin-left:auto;
+   margin-right:auto;
+   border:1px solid black;
+   align-content: center;
+   object-fit:fill;
+}
+
+.navbar{
+
+    text-align: center;
+    
+   
+}
+
+.navbar a {
+
+    text-decoration: none;
+    
+    
+}
+
